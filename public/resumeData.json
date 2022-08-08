@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Mustapha Malass",
+    "occupation": "junior developper",
+    "description": "Im a self taught developper that is shifting his career from law to web developping and tech oriented professions",
+    "image": "profilepic.jpg",
+    "bio": "As a law graduate,i always wanted to pursue a career in law,but after realising that this was not the future for me,i took my desiny into my own hands and started to learn coding,first by my self,then with the help of frineds,which ultimately led to buying online courses and moving on from there.",
+    "contactmessage": "Hopefuly you found my resume intresting and contained what you are looking for,for further inquery please contact me through the following methods.",
+    "email": "mustapha.malass@gmail.com",
+    "phone": "+961/70795483",
+    "address": {
+      "street": "abu samra",
+      "city": "tripoli",
+      "state": "north lebanon",
+      "zip": ""
+    },
+    
+    
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/mustaphovich",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/mustaphovich",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mustapha-malass-812624a6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/mustaphovich",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/mustaphovich",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Development: ASP.NET, Node.js, C#, HTML5, Javascript, CSS, Bootstrap, Express, Axios, React.js, Redux,Semantics UI, Studio 3T ,Tools: Postman, Git, MS Office Databases: Mongodb, NoSQL ,Soft Skills: Good written and oral communication skills, Exceptional team worker  Languages: Arabic, English, French ",
+  
+    
+    
+  
+    
+    "education": [
+      {
+        "school": "Lebanese Univerisy",
+        "degree": "law degree",
+        "graduated": "2016",
+        "description": "my time in law school has taught alot of people skills."
+      }
+      
+    ],
+    "work": [
+      {
+        "company": "Office of Khaled Merheb, Attorney at Law",
+        "title": "paralegal ",    
+        "years": "2008-2009",
+        "description": " Organizing the filing systemPreparing reports and correspondences Managing the Lawyers’ journals and organizing travel arrangements Providing general administrative assistance to the team"
+         
+      },
+      {
+        "company": "Malass Cheeses - Tripoli",
+        "title": "logistics in charge",    
+        "years": "2013-present",
+        "description": " In charge of all product deliveries, Monitoring stock levels and requesting orders on demand"
+      },
+      {
+        "company": "Chopsticks tripoli",
+        "title": "Restaurant Supervisor",
+        "years": "2009-2011",
+        "description": "Supervising and ensuring the smooth transition of shifts,Performing all opening, closing, and nightly duties. Monitoring and maintaining cleanliness, sanitation, and organization ofassigned work areas. Providing a positive experience and a professional service for our guests"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Nodejs",
+        "level": "65%"
+      },
+      {
+        "name": "C#",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "ASP.NET",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "basically he is still on the shore , he studied all the Udemy courses needed to improve his career,he is a hard worker by himself and he is taking this so serious as he is trying to shift his whole career",
+        "user": "Bassem Alameddine , Senior Developper"
+      }
+      
+    ]
+  }
+}
